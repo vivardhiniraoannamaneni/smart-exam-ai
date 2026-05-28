@@ -1,0 +1,6 @@
+{
+  "name": "AI Exam Assistant",
+  "description": "An interactive study assistant that helps prepare for exams with AI mind maps, key points, formula sheets, and a doubt-solving chat interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
